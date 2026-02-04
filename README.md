@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moustafa-Zeidan
 - 👀 I’m interested in Developing Software and building Hardware.
-- 🌱 I’m currently learning Python, HTML, C.
+- 🌱 I’m currently learning Python, HTML and C.
 - 📫 How to reach me: moustafa.mahmoud.zeidan@gmail.com
 - 😄 Pronouns: - IDK
 - ⚡ Fun fact: - IDK
