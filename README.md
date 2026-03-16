@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moustafa-Zeidan
+- 👋 Hi, I’m LoyalShark12
 - 👀 I’m interested in Developing Software and building Hardware.
 - 🌱 I’m currently learning C.
 - 📫 How to reach me: moustafa.mahmoud.zeidan@gmail.com
